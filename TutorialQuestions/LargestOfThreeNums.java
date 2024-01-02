@@ -18,5 +18,6 @@ public class LargestOfThreeNums {
             largest = num3;
         }
         System.out.println(largest);
+        System.out.println(largest);
     }
 }
